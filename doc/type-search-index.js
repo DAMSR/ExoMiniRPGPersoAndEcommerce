@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"RPG","l":"Arme"},{"p":"RPG","l":"Armure"},{"p":"RPG","l":"Personnage"},{"p":"main","l":"RPG"}];updateSearchResults();
